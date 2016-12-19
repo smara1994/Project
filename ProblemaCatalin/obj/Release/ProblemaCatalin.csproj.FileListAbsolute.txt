@@ -1,0 +1,12 @@
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\bin\Release\Database2.mdf
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\bin\Release\Database2_log.ldf
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\bin\Release\ProblemaCatalin.exe.config
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\bin\Release\ProblemaCatalin.exe
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\bin\Release\ProblemaCatalin.pdb
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\obj\Release\ProblemaCatalin.Form1.resources
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\obj\Release\ProblemaCatalin.Login.resources
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\obj\Release\ProblemaCatalin.Properties.Resources.resources
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\obj\Release\ProblemaCatalin.Register.resources
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\obj\Release\ProblemaCatalin.csproj.GenerateResource.Cache
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\obj\Release\ProblemaCatalin.exe
+C:\Users\popes\OneDrive\Documents\Visual Studio 2015\Projects\ProblemaCatalin\ProblemaCatalin\obj\Release\ProblemaCatalin.pdb
